@@ -6,6 +6,8 @@ body{
 
 h1{
     font-size: 64px;
+    text-align: center;
+    padding: 10px;
 
 }
 
@@ -42,6 +44,11 @@ div{
 
 #yellow{
     background: #ffff00;
+    text-align: right;
+}
+
+#yellow p{
+    color: #000000;
     text-align: right;
 }
 
