@@ -1,6 +1,6 @@
 body{
     background: #000000;
-    color: floralwhite;
+    color: #FFFFFF;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -53,7 +53,7 @@ div{
 }
 
 #yellow h2{
-    color: black;
+    color: #000000;
     text-align: right;
     text-shadow: 4px 2px 2px #c7e2c7;
 }
